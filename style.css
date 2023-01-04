@@ -1,0 +1,18 @@
+.ldiv1 , .ldiv2
+	{
+		background-color: rgb(196, 102, 102);
+		padding: 10px;
+		border-radius: 15px;
+	}
+
+button
+{
+	background-color: rgb(137, 166, 176);
+}
+
+#player1_name_input , #player2_name_input
+{
+	display: inline-block;
+	padding: 15px;
+}
+
